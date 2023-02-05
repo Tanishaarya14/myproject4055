@@ -1,0 +1,10 @@
+
+
+.navbardecorate{
+    position: sticky;
+    top: 0;
+    margin-bottom: 90%;
+    background-color: brown;
+    width: 1280px;
+    word-spacing: 2cm;
+}
